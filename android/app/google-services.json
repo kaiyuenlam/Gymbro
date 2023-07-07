@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "379454195798",
+    "project_id": "gymbro-flutter-app",
+    "storage_bucket": "gymbro-flutter-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:379454195798:android:08286a057ee04e6bc2d3f7",
+        "android_client_info": {
+          "package_name": "com.kaiyuendev.gymbro"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "379454195798-lnc1gn9s3l7dfdonra5csmfpvfi5koem.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDd6ODH-ck4_F_fq0jV9eKXoo3aOIJsDIU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "379454195798-lnc1gn9s3l7dfdonra5csmfpvfi5koem.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "379454195798-duh6bvnml1lc1s9o9g32rbbfu97da6rd.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.kaiyuendev.gymbro"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
